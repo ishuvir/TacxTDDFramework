@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+    <line>
+      <![CDATA[Running Login screen validation Test]]>
+    </line>
+    <line>
+      <![CDATA[Tacx logo is displayed :true]]>
+    </line>
+    <line>
+      <![CDATA[User has entered EmailAddress]]>
+    </line>
+    <line>
+      <![CDATA[User has entered password]]>
+    </line>
+    <line>
+      <![CDATA[User has clicked on login button]]>
+    </line>
+    <line>
+      <![CDATA[Running HomePAge validation test]]>
+    </line>
+    <line>
+      <![CDATA[User Skipped the tacx tutorial screen]]>
+    </line>
+    <line>
+      <![CDATA[User loggedIn displayed with Tacx logo :true]]>
+    </line>
+    <line>
+      <![CDATA[New Ride tab is Displayed on Home Screen]]>
+    </line>
+    <line>
+      <![CDATA[New Ride Section validation Test]]>
+    </line>
+    <line>
+      <![CDATA[User selected New Ride ]]>
+    </line>
+    <line>
+      <![CDATA[Tacx New Ride screen is displayed with search bar]]>
+    </line>
+    <line>
+      <![CDATA[User clicked on Search bar to search for new location]]>
+    </line>
+    <line>
+      <![CDATA[Search Result validation Test]]>
+    </line>
+    <line>
+      <![CDATA[User searched with city name as :koppenberg]]>
+    </line>
+    <line>
+      <![CDATA[Search result displayed with selected location]]>
+    </line>
+    <line>
+      <![CDATA[User selected the search result]]>
+    </line>
+    <line>
+      <![CDATA[New Trip validation Test]]>
+    </line>
+    <line>
+      <![CDATA[Start button is displayed]]>
+    </line>
+    <line>
+      <![CDATA[User Selected start button :Trip Started]]>
+    </line>
+    <line>
+      <![CDATA[Enabling bluetooth]]>
+    </line>
+    <line>
+      <![CDATA[Bluetooth is Enabled now]]>
+    </line>
+    <line>
+      <![CDATA[Permission required for location]]>
+    </line>
+    <line>
+      <![CDATA[Permission granted for Location]]>
+    </line>
+    <line>
+      <![CDATA[Permission granted for Location:Location Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Demo Trip validation Test]]>
+    </line>
+    <line>
+      <![CDATA[Demo Started by User]]>
+    </line>
+    <line>
+      <![CDATA[Training Screen is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Training started :Awaiting new trip..]]>
+    </line>
+    <line>
+      <![CDATA[Start now option is displayed to user in trip]]>
+    </line>
+    <line>
+      <![CDATA[Trip Started by User]]>
+    </line>
+    <line>
+      <![CDATA[Tacx Feature validation Test]]>
+    </line>
+    <line>
+      <![CDATA[Power in Watt is :0597]]>
+    </line>
+    <line>
+      <![CDATA[Percentage value is :0.1 %]]>
+    </line>
+    <line>
+      <![CDATA[Current Speed in KM/H is :54.1]]>
+    </line>
+    <line>
+      <![CDATA[RPM  value is :53]]>
+    </line>
+    <line>
+      <![CDATA[BPM value is :136]]>
+    </line>
+    <line>
+      <![CDATA[Calorie in KCAL is :124]]>
+    </line>
+    <line>
+      <![CDATA[Tacx trip screen is displayed is validated succesfully]]>
+    </line>
+    <line>
+      <![CDATA[Tacx Training menu is selected by User]]>
+    </line>
+    <line>
+      <![CDATA[Distance progress bar is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Tacx Ride stop validation Test]]>
+    </line>
+    <line>
+      <![CDATA[Stop button is dispalyed in Menu]]>
+    </line>
+    <line>
+      <![CDATA[Reporter Selected the Stop trip option]]>
+    </line>
+    <line>
+      <![CDATA[Tacx Logout Feature validation Test]]>
+    </line>
+    <line>
+      <![CDATA[User selected the setting ICON :ICON displayed]]>
+    </line>
+    <line>
+      <![CDATA[Correct user account name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[User is successfully logged from account]]>
+    </line>
+    <line>
+      <![CDATA[Tacx logo is displayed :true]]>
+    </line>
+    <line>
+      <![CDATA[Creating new User Account Test]]>
+    </line>
+    <line>
+      <![CDATA[Tacx logo is displayed :true]]>
+    </line>
+    <line>
+      <![CDATA[User has entered Name]]>
+    </line>
+    <line>
+      <![CDATA[User has entered EmailAddress]]>
+    </line>
+    <line>
+      <![CDATA[User has entered Password]]>
+    </line>
+    <line>
+      <![CDATA[User Opted for Registeration]]>
+    </line>
+    <line>
+      <![CDATA[Legal T&C Message is:We take your privacy seriously. Our privacy policy is available for your review]]>
+    </line>
+    <line>
+      <![CDATA[Terms & conditon ,Legal box accepted]]>
+    </line>
+    <line>
+      <![CDATA[Terms & conditon ,Legal box accepted]]>
+    </line>
+    <line>
+      <![CDATA[Proceed button is selected ]]>
+    </line>
+    <line>
+      <![CDATA[New User homepage validation test]]>
+    </line>
+    <line>
+      <![CDATA[User Skipped the tacx tutorial screen]]>
+    </line>
+    <line>
+      <![CDATA[User loggedIn displayed with Tacx logo :true]]>
+    </line>
+    <line>
+      <![CDATA[New Ride tab is Displayed on Home Screen]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="607532" started-at="2020-02-27T20:18:25 CET" finished-at="2020-02-27T20:28:33 CET">
+    <groups>
+    </groups>
+    <test name="TACXSmokeAutomation" duration-ms="518541" started-at="2020-02-27T20:18:25 CET" finished-at="2020-02-27T20:27:04 CET">
+      <class name="tests.SmokeValidRegisteredTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.SmokeValidRegisteredTest@3c0a50da]" name="setup" is-config="true" duration-ms="47661" started-at="2020-02-27T20:18:25 CET" finished-at="2020-02-27T20:19:13 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginValidation(java.lang.String, java.lang.String)[pri:0, instance:tests.SmokeValidRegisteredTest@3c0a50da]" name="LoginValidation" duration-ms="14017" started-at="2020-02-27T20:19:13 CET" finished-at="2020-02-27T20:19:27 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[singh.ivsingh@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Singh@2302]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Running Login screen validation Test]]>
+            </line>
+            <line>
+              <![CDATA[Tacx logo is displayed :true]]>
+            </line>
+            <line>
+              <![CDATA[User has entered EmailAddress]]>
+            </line>
+            <line>
+              <![CDATA[User has entered password]]>
+            </line>
+            <line>
+              <![CDATA[User has clicked on login button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginValidation -->
+        <test-method status="PASS" signature="HomePageValidation()[pri:0, instance:tests.SmokeValidRegisteredTest@3c0a50da]" name="HomePageValidation" duration-ms="6707" started-at="2020-02-27T20:19:27 CET" depends-on-methods="tests.SmokeValidRegisteredTest.LoginValidation" finished-at="2020-02-27T20:19:34 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Running HomePAge validation test]]>
+            </line>
+            <line>
+              <![CDATA[User Skipped the tacx tutorial screen]]>
+            </line>
+            <line>
+              <![CDATA[User loggedIn displayed with Tacx logo :true]]>
+            </line>
+            <line>
+              <![CDATA[New Ride tab is Displayed on Home Screen]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePageValidation -->
+        <test-method status="PASS" signature="NewRideValidation()[pri:0, instance:tests.SmokeValidRegisteredTest@3c0a50da]" name="NewRideValidation" duration-ms="3630" started-at="2020-02-27T20:19:34 CET" depends-on-methods="tests.SmokeValidRegisteredTest.HomePageValidation" finished-at="2020-02-27T20:19:37 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[New Ride Section validation Test]]>
+            </line>
+            <line>
+              <![CDATA[User selected New Ride ]]>
+            </line>
+            <line>
+              <![CDATA[Tacx New Ride screen is displayed with search bar]]>
+            </line>
+            <line>
+              <![CDATA[User clicked on Search bar to search for new location]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- NewRideValidation -->
+        <test-method status="PASS" signature="LocationSearchValidation(java.lang.String)[pri:0, instance:tests.SmokeValidRegisteredTest@3c0a50da]" name="LocationSearchValidation" duration-ms="4696" started-at="2020-02-27T20:19:37 CET" depends-on-methods="tests.SmokeValidRegisteredTest.NewRideValidation" finished-at="2020-02-27T20:19:42 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[koppenberg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Search Result validation Test]]>
+            </line>
+            <line>
+              <![CDATA[User searched with city name as :koppenberg]]>
+            </line>
+            <line>
+              <![CDATA[Search result displayed with selected location]]>
+            </line>
+            <line>
+              <![CDATA[User selected the search result]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LocationSearchValidation -->
+        <test-method status="PASS" signature="NewTripValidation()[pri:0, instance:tests.SmokeValidRegisteredTest@3c0a50da]" name="NewTripValidation" duration-ms="19190" started-at="2020-02-27T20:19:42 CET" depends-on-methods="tests.SmokeValidRegisteredTest.LocationSearchValidation" finished-at="2020-02-27T20:20:01 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[New Trip validation Test]]>
+            </line>
+            <line>
+              <![CDATA[Start button is displayed]]>
+            </line>
+            <line>
+              <![CDATA[User Selected start button :Trip Started]]>
+            </line>
+            <line>
+              <![CDATA[Enabling bluetooth]]>
+            </line>
+            <line>
+              <![CDATA[Bluetooth is Enabled now]]>
+            </line>
+            <line>
+              <![CDATA[Permission required for location]]>
+            </line>
+            <line>
+              <![CDATA[Permission granted for Location]]>
+            </line>
+            <line>
+              <![CDATA[Permission granted for Location:Location Enabled]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- NewTripValidation -->
+        <test-method status="PASS" signature="DemoTripValidation()[pri:0, instance:tests.SmokeValidRegisteredTest@3c0a50da]" name="DemoTripValidation" duration-ms="12293" started-at="2020-02-27T20:20:01 CET" depends-on-methods="tests.SmokeValidRegisteredTest.NewTripValidation" finished-at="2020-02-27T20:20:13 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Demo Trip validation Test]]>
+            </line>
+            <line>
+              <![CDATA[Demo Started by User]]>
+            </line>
+            <line>
+              <![CDATA[Training Screen is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Training started :Awaiting new trip..]]>
+            </line>
+            <line>
+              <![CDATA[Start now option is displayed to user in trip]]>
+            </line>
+            <line>
+              <![CDATA[Trip Started by User]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DemoTripValidation -->
+        <test-method status="PASS" signature="TacxFeatureValidation()[pri:0, instance:tests.SmokeValidRegisteredTest@3c0a50da]" name="TacxFeatureValidation" duration-ms="301733" started-at="2020-02-27T20:20:13 CET" depends-on-methods="tests.SmokeValidRegisteredTest.DemoTripValidation" finished-at="2020-02-27T20:25:15 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Tacx Feature validation Test]]>
+            </line>
+            <line>
+              <![CDATA[Power in Watt is :0597]]>
+            </line>
+            <line>
+              <![CDATA[Percentage value is :0.1 %]]>
+            </line>
+            <line>
+              <![CDATA[Current Speed in KM/H is :54.1]]>
+            </line>
+            <line>
+              <![CDATA[RPM  value is :53]]>
+            </line>
+            <line>
+              <![CDATA[BPM value is :136]]>
+            </line>
+            <line>
+              <![CDATA[Calorie in KCAL is :124]]>
+            </line>
+            <line>
+              <![CDATA[Tacx trip screen is displayed is validated succesfully]]>
+            </line>
+            <line>
+              <![CDATA[Tacx Training menu is selected by User]]>
+            </line>
+            <line>
+              <![CDATA[Distance progress bar is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TacxFeatureValidation -->
+        <test-method status="PASS" signature="RideStopvalidation()[pri:0, instance:tests.SmokeValidRegisteredTest@3c0a50da]" name="RideStopvalidation" duration-ms="91371" started-at="2020-02-27T20:25:15 CET" depends-on-methods="tests.SmokeValidRegisteredTest.TacxFeatureValidation" finished-at="2020-02-27T20:26:47 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Tacx Ride stop validation Test]]>
+            </line>
+            <line>
+              <![CDATA[Stop button is dispalyed in Menu]]>
+            </line>
+            <line>
+              <![CDATA[Reporter Selected the Stop trip option]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- RideStopvalidation -->
+        <test-method status="PASS" signature="TacxLogoutFeatureTest()[pri:0, instance:tests.SmokeValidRegisteredTest@3c0a50da]" name="TacxLogoutFeatureTest" duration-ms="15385" started-at="2020-02-27T20:26:47 CET" depends-on-methods="tests.SmokeValidRegisteredTest.RideStopvalidation" finished-at="2020-02-27T20:27:02 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Tacx Logout Feature validation Test]]>
+            </line>
+            <line>
+              <![CDATA[User selected the setting ICON :ICON displayed]]>
+            </line>
+            <line>
+              <![CDATA[Correct user account name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[User is successfully logged from account]]>
+            </line>
+            <line>
+              <![CDATA[Tacx logo is displayed :true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TacxLogoutFeatureTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.SmokeValidRegisteredTest@3c0a50da]" name="teardown" is-config="true" duration-ms="1735" started-at="2020-02-27T20:27:02 CET" finished-at="2020-02-27T20:27:04 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.SmokeValidRegisteredTest -->
+    </test> <!-- TACXSmokeAutomation -->
+    <test name="TACXRegisterationTest" duration-ms="88188" started-at="2020-02-27T20:27:04 CET" finished-at="2020-02-27T20:28:33 CET">
+      <class name="tests.RegisterationValidationTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.RegisterationValidationTest@1b68b9a4]" name="setup" is-config="true" duration-ms="53487" started-at="2020-02-27T20:27:04 CET" finished-at="2020-02-27T20:27:58 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CreateAccountTest()[pri:0, instance:tests.RegisterationValidationTest@1b68b9a4]" name="CreateAccountTest" duration-ms="20881" started-at="2020-02-27T20:27:58 CET" finished-at="2020-02-27T20:28:19 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Creating new User Account Test]]>
+            </line>
+            <line>
+              <![CDATA[Tacx logo is displayed :true]]>
+            </line>
+            <line>
+              <![CDATA[User has entered Name]]>
+            </line>
+            <line>
+              <![CDATA[User has entered EmailAddress]]>
+            </line>
+            <line>
+              <![CDATA[User has entered Password]]>
+            </line>
+            <line>
+              <![CDATA[User Opted for Registeration]]>
+            </line>
+            <line>
+              <![CDATA[Legal T&C Message is:We take your privacy seriously. Our privacy policy is available for your review]]>
+            </line>
+            <line>
+              <![CDATA[Terms & conditon ,Legal box accepted]]>
+            </line>
+            <line>
+              <![CDATA[Terms & conditon ,Legal box accepted]]>
+            </line>
+            <line>
+              <![CDATA[Proceed button is selected ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateAccountTest -->
+        <test-method status="PASS" signature="NewUserValidation()[pri:0, instance:tests.RegisterationValidationTest@1b68b9a4]" name="NewUserValidation" duration-ms="12810" started-at="2020-02-27T20:28:19 CET" depends-on-methods="tests.RegisterationValidationTest.CreateAccountTest" finished-at="2020-02-27T20:28:32 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[New User homepage validation test]]>
+            </line>
+            <line>
+              <![CDATA[User Skipped the tacx tutorial screen]]>
+            </line>
+            <line>
+              <![CDATA[User loggedIn displayed with Tacx logo :true]]>
+            </line>
+            <line>
+              <![CDATA[New Ride tab is Displayed on Home Screen]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- NewUserValidation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.RegisterationValidationTest@1b68b9a4]" name="teardown" is-config="true" duration-ms="1002" started-at="2020-02-27T20:28:32 CET" finished-at="2020-02-27T20:28:33 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.RegisterationValidationTest -->
+    </test> <!-- TACXRegisterationTest -->
+  </suite> <!-- Suite -->
+</testng-results>

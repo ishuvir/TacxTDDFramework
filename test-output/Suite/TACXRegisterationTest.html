@@ -1,0 +1,263 @@
+<html>
+<head>
+<title>TestNG:  TACXRegisterationTest</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>TACXRegisterationTest</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>2/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Feb 27 20:27:04 CET 2020</td>
+</tr>
+<tr><td>Total time:</td><td>88 seconds (88188 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='tests.RegisterationValidationTest.CreateAccountTest()'><b>CreateAccountTest</b><br>Test class: tests.RegisterationValidationTest<br/>
+<a href="#Output-49969897" onClick='toggleBox("Output-49969897", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-49969897" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-49969897">
+Creating new User Account Test<br/>
+Tacx logo is displayed :true<br/>
+User has entered Name<br/>
+User has entered EmailAddress<br/>
+User has entered Password<br/>
+User Opted for Registeration<br/>
+Legal T&C Message is:We take your privacy seriously. Our privacy policy is available for your review<br/>
+Terms & conditon ,Legal box accepted<br/>
+Terms & conditon ,Legal box accepted<br/>
+Proceed button is selected <br/>
+</div>
+</td>
+<td></td>
+<td>20</td>
+<td>tests.RegisterationValidationTest@1b68b9a4</td></tr>
+<tr>
+<td title='tests.SmokeValidRegisteredTest.DemoTripValidation()'><b>DemoTripValidation</b><br>Test class: tests.SmokeValidRegisteredTest<br/>
+<a href="#Output-2007486296" onClick='toggleBox("Output-2007486296", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2007486296" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2007486296">
+Demo Trip validation Test<br/>
+Demo Started by User<br/>
+Training Screen is displayed<br/>
+Training started :Awaiting new trip..<br/>
+Start now option is displayed to user in trip<br/>
+Trip Started by User<br/>
+</div>
+</td>
+<td></td>
+<td>12</td>
+<td>tests.SmokeValidRegisteredTest@3c0a50da</td></tr>
+<tr>
+<td title='tests.SmokeValidRegisteredTest.HomePageValidation()'><b>HomePageValidation</b><br>Test class: tests.SmokeValidRegisteredTest<br/>
+<a href="#Output-664186542" onClick='toggleBox("Output-664186542", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-664186542" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-664186542">
+Running HomePAge validation test<br/>
+User Skipped the tacx tutorial screen<br/>
+User loggedIn displayed with Tacx logo :true<br/>
+New Ride tab is Displayed on Home Screen<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>tests.SmokeValidRegisteredTest@3c0a50da</td></tr>
+<tr>
+<td title='tests.SmokeValidRegisteredTest.LocationSearchValidation()'><b>LocationSearchValidation</b><br>Test class: tests.SmokeValidRegisteredTest<br>Parameters: koppenberg<br/>
+<a href="#Output-1517328406" onClick='toggleBox("Output-1517328406", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1517328406" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1517328406">
+Search Result validation Test<br/>
+User searched with city name as :koppenberg<br/>
+Search result displayed with selected location<br/>
+User selected the search result<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>tests.SmokeValidRegisteredTest@3c0a50da</td></tr>
+<tr>
+<td title='tests.SmokeValidRegisteredTest.LoginValidation()'><b>LoginValidation</b><br>Test class: tests.SmokeValidRegisteredTest<br>Parameters: singh.ivsingh@gmail.com, Singh@2302<br/>
+<a href="#Output-176342513" onClick='toggleBox("Output-176342513", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-176342513" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-176342513">
+Running Login screen validation Test<br/>
+Tacx logo is displayed :true<br/>
+User has entered EmailAddress<br/>
+User has entered password<br/>
+User has clicked on login button<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>tests.SmokeValidRegisteredTest@3c0a50da</td></tr>
+<tr>
+<td title='tests.SmokeValidRegisteredTest.NewRideValidation()'><b>NewRideValidation</b><br>Test class: tests.SmokeValidRegisteredTest<br/>
+<a href="#Output-573926093" onClick='toggleBox("Output-573926093", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-573926093" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-573926093">
+New Ride Section validation Test<br/>
+User selected New Ride <br/>
+Tacx New Ride screen is displayed with search bar<br/>
+User clicked on Search bar to search for new location<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>tests.SmokeValidRegisteredTest@3c0a50da</td></tr>
+<tr>
+<td title='tests.SmokeValidRegisteredTest.NewTripValidation()'><b>NewTripValidation</b><br>Test class: tests.SmokeValidRegisteredTest<br/>
+<a href="#Output-40191541" onClick='toggleBox("Output-40191541", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-40191541" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-40191541">
+New Trip validation Test<br/>
+Start button is displayed<br/>
+User Selected start button :Trip Started<br/>
+Enabling bluetooth<br/>
+Bluetooth is Enabled now<br/>
+Permission required for location<br/>
+Permission granted for Location<br/>
+Permission granted for Location:Location Enabled<br/>
+</div>
+</td>
+<td></td>
+<td>19</td>
+<td>tests.SmokeValidRegisteredTest@3c0a50da</td></tr>
+<tr>
+<td title='tests.RegisterationValidationTest.NewUserValidation()'><b>NewUserValidation</b><br>Test class: tests.RegisterationValidationTest<br/>
+<a href="#Output-2027133545" onClick='toggleBox("Output-2027133545", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2027133545" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2027133545">
+New User homepage validation test<br/>
+User Skipped the tacx tutorial screen<br/>
+User loggedIn displayed with Tacx logo :true<br/>
+New Ride tab is Displayed on Home Screen<br/>
+</div>
+</td>
+<td></td>
+<td>12</td>
+<td>tests.RegisterationValidationTest@1b68b9a4</td></tr>
+<tr>
+<td title='tests.SmokeValidRegisteredTest.RideStopvalidation()'><b>RideStopvalidation</b><br>Test class: tests.SmokeValidRegisteredTest<br/>
+<a href="#Output-1660223291" onClick='toggleBox("Output-1660223291", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1660223291" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1660223291">
+Tacx Ride stop validation Test<br/>
+Stop button is dispalyed in Menu<br/>
+Reporter Selected the Stop trip option<br/>
+</div>
+</td>
+<td></td>
+<td>91</td>
+<td>tests.SmokeValidRegisteredTest@3c0a50da</td></tr>
+<tr>
+<td title='tests.SmokeValidRegisteredTest.TacxFeatureValidation()'><b>TacxFeatureValidation</b><br>Test class: tests.SmokeValidRegisteredTest<br/>
+<a href="#Output-1419332030" onClick='toggleBox("Output-1419332030", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1419332030" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1419332030">
+Tacx Feature validation Test<br/>
+Power in Watt is :0597<br/>
+Percentage value is :0.1 %<br/>
+Current Speed in KM/H is :54.1<br/>
+RPM  value is :53<br/>
+BPM value is :136<br/>
+Calorie in KCAL is :124<br/>
+Tacx trip screen is displayed is validated succesfully<br/>
+Tacx Training menu is selected by User<br/>
+Distance progress bar is displayed<br/>
+</div>
+</td>
+<td></td>
+<td>301</td>
+<td>tests.SmokeValidRegisteredTest@3c0a50da</td></tr>
+<tr>
+<td title='tests.SmokeValidRegisteredTest.TacxLogoutFeatureTest()'><b>TacxLogoutFeatureTest</b><br>Test class: tests.SmokeValidRegisteredTest<br/>
+<a href="#Output-812143047" onClick='toggleBox("Output-812143047", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-812143047" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-812143047">
+Tacx Logout Feature validation Test<br/>
+User selected the setting ICON :ICON displayed<br/>
+Correct user account name is displayed<br/>
+User is successfully logged from account<br/>
+Tacx logo is displayed :true<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>tests.SmokeValidRegisteredTest@3c0a50da</td></tr>
+</table><p>
+</body>
+</html>
